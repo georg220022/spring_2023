@@ -4,7 +4,7 @@ import re
 
 SEARCH_NAME = "filenames"
 FOLDER_NAME = "test"
-EMAIL_REG = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b" # Регулярочку в чатгпт сделал
+EMAIL_REG = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b"
 
 path_list = list()
 counter_ = [0]
